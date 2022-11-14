@@ -1,15 +1,5 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
+Text File addition 
 
-# TEAM
+TEAM 1 : Manish Dixit (manish.dixit.rbl@gmail.com)
 
-    <name> -- <role> -- <twitter>
 
-# THANKS
-
-    <name>
-
-# TECHNOLOGY COLOPHON
-
-    HTML5, CSS3
-    jQuery, Modernizr
