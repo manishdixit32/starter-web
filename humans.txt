@@ -6,4 +6,9 @@ Git Rebase Understanding
 
 Git Rebase learning
 
+<<<<<<< HEAD
 Git Status updated
+=======
+Git Status updated
+
+>>>>>>> 85b7e02 (Human Text file modified)
