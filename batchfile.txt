@@ -1,3 +1,5 @@
 A typical wiki contains multiple pages for the subjects or scope of the project, and could be either open to the public or limited to use within an organization for maintaining its internal knowledge base.
 
 A wiki engine, being a form of a content management system
+
+---A New Word Added on this Files
