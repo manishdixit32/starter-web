@@ -6,4 +6,4 @@ Git Rebase Understanding
 
 Git Rebase learning
 
-Git Update something 
+Git Status updated
