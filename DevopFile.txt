@@ -5,3 +5,4 @@ Git stash .
 Stash untracked files
 
 Stash the new files
+Tag New files
