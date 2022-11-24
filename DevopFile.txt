@@ -6,3 +6,4 @@ Stash untracked files
 
 Stash the new files
 Tag New files
+Changes in new File add in Git hub
